@@ -1,0 +1,4 @@
+[wrap-git]
+directory=raylib
+url=https://github.com/moonsteal/raylib-barebones.git
+revision=7a7c7d9cd6ebded13ebcae80da580c4f39ed13a7
